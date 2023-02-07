@@ -1,2 +1,2 @@
 Product catalog
-Filter products by parameters
+Filter products by parameters (fixed a bug when choosing a price range)
