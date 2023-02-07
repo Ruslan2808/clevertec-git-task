@@ -1,2 +1,2 @@
-Product catalog
+Product catalog (fixed a bug with pagination of product pages)
 Filter products by parameters (fixed a bug when choosing a price range) (fixed a bug when resetting filter options)
