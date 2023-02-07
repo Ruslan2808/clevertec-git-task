@@ -1,0 +1,2 @@
+Shopping cart (fix a bug with deleting a product from the shopping-cart)
+Product quick view feature
